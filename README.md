@@ -1,6 +1,3 @@
-npm install
-npm start
-
 # My ES6 (ES2015) Seed
 
 > Simple seed for getting up and running quickly with an ES6 project.
